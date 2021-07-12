@@ -3,6 +3,7 @@ package projetodamas2;
 
 
 public abstract class Pedra {
+    //Comentario teste;
     private boolean existe;
 
     public boolean isExiste() {
